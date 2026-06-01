@@ -464,7 +464,6 @@
 - [mzxrai/mcp-webresearch](https://github.com/mzxrai/mcp-webresearch) 🔍📚 - Google 검색 및 모든 주제에 대한 심층 웹 리서치 수행
 - [andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv) - 🐍 ☁️  arXiv에서 논문을 검색하고 읽기 위한 LLM용 MCP
 - [andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed) - 🐍 ☁️  PubMed에서 의료/생명 과학 논문을 검색하고 읽기 위한 MCP.
-- [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser) 📇 ☁️ - Apify의 오픈 소스 RAG 웹 브라우저 액터를 위한 MCP 서버로 웹 검색, URL 스크래핑 및 마크다운 형식으로 콘텐츠 반환 수행.
 - [SecretiveShell/MCP-searxng](https://github.com/SecretiveShell/MCP-searxng) 🐍 🏠 - searXNG 인스턴스에 연결하기 위한 MCP 서버
 - [Bigsy/Clojars-MCP-Server](https://github.com/Bigsy/Clojars-MCP-Server) 📇 ☁️ - Clojure 라이브러리의 최신 의존성 정보를 위한 Clojars MCP 서버
 - [Ihor-Sokoliuk/MCP-SearXNG](https://github.com/ihor-sokoliuk/mcp-searxng) 📇 🏠/☁️ - [SearXNG](https://docs.searxng.org)를 위한 모델 컨텍스트 프로토콜 서버
@@ -539,7 +538,6 @@ Git 리포지토리 및 버전 관리 플랫폼과 상호 작용합니다. 표�
 
 - [2niuhe/plantuml_web](https://github.com/2niuhe/plantuml_web) 🐍 🏠 ☁️ 🍎 🪟 🐧 - MCP 서버 통합을 갖춘 웹 기반 PlantUML 프론트엔드로, PlantUML 이미지 생성 및 구문 검증을 지원합니다.
 - [2niuhe/qrcode_mcp](https://github.com/2niuhe/qrcode_mcp) 🐍 🏠 🍎 🪟 🐧 - 중국어 문자를 포함한 모든 텍스트를 QR 코드로 변환하고 사용자 정의 색상 및 base64 인코딩 출력을 지원하는 QR 코드 생성 MCP 서버.
-- [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) 📇 ☁️ - 액터라고 알려진 3,000개 이상의 사전 구축된 클라우드 도구를 사용하여 웹사이트, 전자 상거래, 소셜 미디어, 검색 엔진, 지도 등에서 데이터 추출
 - [ivo-toby/contentful-mcp](https://github.com/ivo-toby/contentful-mcp) 📇 🏠 - Contentful Space에서 콘텐츠, 콘텐츠 모델 및 에셋 업데이트, 생성, 삭제
 - [mzxrai/mcp-openai](https://github.com/mzxrai/mcp-openai) 📇 ☁️ - OpenAI의 가장 똑똑한 모델과 채팅
 - [mrjoshuak/godoc-mcp](https://github.com/mrjoshuak/godoc-mcp) 🏎️ 🏠 - 전체 소스 파일을 읽지 않고 AI 어시스턴트에게 패키지 문서 및 유형에 대한 스마트한 접근을 제공하는 토큰 효율적인 Go 문서 서버

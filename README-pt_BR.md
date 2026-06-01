@@ -437,7 +437,6 @@ Acesse e analise dados de monitoramento de aplicações. Permite que modelos de 
 - [andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv) - 🐍 ☁️ MCP para LLM pesquisar e ler artigos do arXiv
 - [andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed) - 🐍 ☁️ MCP para pesquisar e ler artigos médicos / ciências da vida do PubMed.
 - [angheljf/nyt](https://github.com/angheljf/nyt) 📇 ☁️ - Pesquise artigos usando a API do NYTimes
-- [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser) 📇 ☁️ - Um servidor MCP para o Ator RAG Web Browser de código aberto da Apify para realizar pesquisas na web, raspar URLs e retornar conteúdo em Markdown.
 - [Bigsy/Clojars-MCP-Server](https://github.com/Bigsy/Clojars-MCP-Server) 📇 ☁️ - Servidor MCP Clojars para informações atualizadas de dependências de bibliotecas Clojure
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) ☁️ 🐍 - Pesquise artigos de pesquisa do ArXiv
 - [chanmeng/google-news-mcp-server](https://github.com/ChanMeng666/server-google-news) 📇 ☁️ - Integração com o Google News com categorização automática de tópicos, suporte multilíngue e recursos abrangentes de pesquisa, incluindo manchetes, histórias e tópicos relacionados através do [SerpAPI](https://serpapi.com/).

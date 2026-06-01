@@ -499,7 +499,6 @@
 - [andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv) - 🐍 ☁️ MCP สำหรับ LLM เพื่อค้นหาและอ่านเอกสารจาก arXiv
 - [andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed) - 🐍 ☁️ MCP เพื่อค้นหาและอ่านเอกสารทางการแพทย์/วิทยาศาสตร์ชีวภาพจาก PubMed
 - [angheljf/nyt](https://github.com/angheljf/nyt) 📇 ☁️ - ค้นหาบทความโดยใช้ API ของ NYTimes
-- [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser) 📇 ☁️ - เซิร์ฟเวอร์ MCP สำหรับ RAG Web Browser Actor แบบโอเพ่นซอร์สของ Apify เพื่อทำการค้นหาเว็บ สแครป URL และส่งคืนเนื้อหาในรูปแบบ Markdown
 - [Bigsy/Clojars-MCP-Server](https://github.com/Bigsy/Clojars-MCP-Server) 📇 ☁️ - เซิร์ฟเวอร์ MCP ของ Clojars เพื่อข้อมูลการพึ่งพาล่าสุดของไลบรารี Clojure
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) ☁️ 🐍 - ค้นหาเอกสารวิจัยจาก ArXiv
 - [chanmeng/google-news-mcp-server](https://github.com/ChanMeng666/server-google-news) 📇 ☁️ - การรวม Google News พร้อมการจัดหมวดหมู่หัวข้ออัตโนมัติ รองรับหลายภาษา และความสามารถในการค้นหาที่ครอบคลุม รวมถึงพาดหัว เรื่องราว และหัวข้อที่เกี่ยวข้องผ่าน [SerpAPI](https://serpapi.com/)
@@ -601,7 +600,6 @@ i- [jtang613/GhidrAssistMCP](https://github.com/jtang613/GhidrAssistMCP) ☕ �
 - [andybrandt/mcp-simple-openai-assistant](https://github.com/andybrandt/mcp-simple-openai-assistant) - 🐍 ☁️ MCP เพื่อพูดคุยกับผู้ช่วย OpenAI (Claude สามารถใช้โมเดล GPT ใดๆ เป็นผู้ช่วยได้)
 - [andybrandt/mcp-simple-timeserver](https://github.com/andybrandt/mcp-simple-timeserver) 🐍 🏠☁️ - เซิร์ฟเวอร์ MCP ที่ช่วยให้ตรวจสอบเวลาท้องถิ่นบนเครื่องลูกข่ายหรือเวลา UTC ปัจจุบันจากเซิร์ฟเวอร์ NTP
 - [anjor/coinmarket-mcp-server](https://github.com/anjor/coinmarket-mcp-server) 🐍 🏠 - การรวม API ของ Coinmarket เพื่อดึงรายการและราคาสกุลเงินดิจิทัล
-- [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) 📇 ☁️ - ใช้เครื่องมือที่สร้างไว้ล่วงหน้ากว่า 3,000 รายการที่เรียกว่า Actors เพื่อดึงข้อมูลจากเว็บไซต์ อีคอมเมิร์ซ โซเชียลมีเดีย เครื่องมือค้นหา แผนที่ และอื่นๆ
 - [apinetwork/piapi-mcp-server](https://github.com/apinetwork/piapi-mcp-server) 📇 ☁️ เซิร์ฟเวอร์ MCP ของ PiAPI ช่วยให้ผู้ใช้สามารถสร้างเนื้อหาสื่อด้วย Midjourney/Flux/Kling/Hunyuan/Udio/Trellis ได้โดยตรงจาก Claude หรือแอปที่เข้ากันได้กับ MCP
 - [awkoy/replicate-flux-mcp](https://github.com/awkoy/replicate-flux-mcp) 📇 ☁️ - ให้ความสามารถในการสร้างภาพผ่าน API ของ Replicate
 - [awwaiid/mcp-server-taskwarrior](https://github.com/awwaiid/mcp-server-taskwarrior) 🏠 📇 - เซิร์ฟเวอร์ MCP สำหรับการใช้งาน taskwarrior ในเครื่องพื้นฐาน (เพิ่ม อัปเดต ลบงาน)

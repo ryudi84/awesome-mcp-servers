@@ -927,7 +927,6 @@
 - [andybrandt/mcp-simple-arxiv](https://github.com/andybrandt/mcp-simple-arxiv) - 🐍 ☁️  MCP برای LLM برای جستجو و خواندن مقالات از arXiv
 - [andybrandt/mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed) - 🐍 ☁️  MCP برای جستجو و خواندن مقالات پزشکی / علوم زیستی از PubMed.
 - [angheljf/nyt](https://github.com/angheljf/nyt) 📇 ☁️ - جستجوی مقالات با استفاده از NYTimes API
-- [apify/mcp-server-rag-web-browser](https://github.com/apify/mcp-server-rag-web-browser) 📇 ☁️ - یک سرور MCP برای RAG Web Browser Actor منبع باز Apify برای انجام جستجوهای وب، استخراج URLها و برگرداندن محتوا در Markdown.
 - [Bigsy/Clojars-MCP-Server](https://github.com/Bigsy/Clojars-MCP-Server) 📇 ☁️ - سرور MCP Clojars برای اطلاعات به‌روز وابستگی کتابخانه‌های Clojure
 - [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) ☁️ 🐍 - جستجوی مقالات تحقیقاتی ArXiv
 - [chanmeng/google-news-mcp-server](https://github.com/ChanMeng666/server-google-news) 📇 ☁️ - یکپارچه‌سازی با Google News با دسته‌بندی خودکار موضوعات، پشتیبانی از چند زبان و قابلیت‌های جستجوی جامع شامل عناوین، داستان‌ها و موضوعات مرتبط از طریق [SerpAPI](https://serpapi.com/).
@@ -1157,7 +1156,6 @@
 - [anaisbetts/mcp-youtube](https://github.com/anaisbetts/mcp-youtube) 📇 ☁️ - دریافت زیرنویس‌های YouTube
 - [andybrandt/mcp-simple-openai-assistant](https://github.com/andybrandt/mcp-simple-openai-assistant) - 🐍 ☁️  MCP برای صحبت با دستیاران OpenAI (Claude می‌تواند از هر مدل GPT به عنوان دستیار خود استفاده کند)
 - [andybrandt/mcp-simple-timeserver](https://github.com/andybrandt/mcp-simple-timeserver) 🐍 🏠☁️ - یک سرور MCP که امکان بررسی زمان محلی در دستگاه کلاینت یا زمان UTC فعلی را از یک سرور NTP می‌دهد
-- [apify/actors-mcp-server](https://github.com/apify/actors-mcp-server) 📇 ☁️ - از بیش از ۳۰۰۰ ابزار ابری از پیش ساخته شده، معروف به Actors، برای استخراج داده از وب‌سایت‌ها، تجارت الکترونیک، رسانه‌های اجتماعی، موتورهای جستجو، نقشه‌ها و موارد دیگر استفاده کنید
 - [apinetwork/piapi-mcp-server](https://github.com/apinetwork/piapi-mcp-server) 📇 ☁️ سرور PiAPI MCP به کاربران امکان می‌دهد محتوای رسانه‌ای را با Midjourney/Flux/Kling/Hunyuan/Udio/Trellis مستقیماً از Claude یا هر برنامه سازگار با MCP دیگر تولید کنند.
 - [awkoy/replicate-flux-mcp](https://github.com/awkoy/replicate-flux-mcp) 📇 ☁️ - قابلیت تولید تصاویر را از طریق Replicate's API فراهم می‌کند.
 - [awwaiid/mcp-server-taskwarrior](https://github.com/awwaiid/mcp-server-taskwarrior) 🏠 📇 - یک سرور MCP برای استفاده پایه از taskwarrior محلی (اضافه کردن، به‌روزرسانی، حذف وظایف)
